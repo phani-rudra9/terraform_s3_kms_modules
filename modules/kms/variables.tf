@@ -1,0 +1,3 @@
+variable "kms" {
+  type = list
+}
